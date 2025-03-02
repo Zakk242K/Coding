@@ -1,0 +1,11 @@
+In a basic code of C++
+
+the first line always stars with :
+
+"#include <**********>"
+
+In which, whatever is written with #(Hashtag) is called directive
+where, In "<**********>" is mostly we get to write "iostream>" which is called header file
+
+" using namespace std; "
+
